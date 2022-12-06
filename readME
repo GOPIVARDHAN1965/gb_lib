@@ -1,0 +1,11 @@
+# link to refer : https://www.youtube.com/watch?v=Qr4QMBUPxWo
+
+# u1 = User(username='Gopi_Vardhan', password_hash='123456', email_address='gopivardhangunta@gmail.com')
+# u2 = User(username='Bidisha_Mukherjee', password_hash='123456', email_address='bidishamukherjee@gmail.com')
+
+
+# i6 = Item(name='Book6', price='149', description='desc6', barcode='123456789016')
+# i7 = Item(name='Book7', price='249', description='desc7', barcode='123456789017')
+# i8 = Item(name='Book8', price='129', description='desc8', barcode='123456789018')
+# i9 = Item(name='Book9', price='379', description='desc9', barcode='123456789019')
+# i10 = Item(name='Book10', price='1249', description='desc10', barcode='123456789020')
